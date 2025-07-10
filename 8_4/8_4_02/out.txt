@@ -1,0 +1,3 @@
+Text data
+<html>HTML dara<html/>
+{"data": "JSON data"}
